@@ -53,7 +53,7 @@ p {
 
 /* unvisited link */
 
-a:link {
+/*a:link {
   color: rgba(0, 0, 0, 0);
 }
 
@@ -76,7 +76,7 @@ a:hover {
 
 a:active {
   color: rgba(0, 0, 0, 0);
-}
+}*/
 
 #title {
   text-align: center;
