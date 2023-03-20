@@ -3,7 +3,7 @@
   line-height: 1.5;
 }
 
-/* h1 {
+ h1 {
   font-family: 'Ubuntu Mono';
   font-style: normal;
   font-size: 100px;
@@ -14,9 +14,9 @@
   margin-bottom: 0;
   position: relative;
   top: 0;
-}*/
+}
 
-h1 {
+a {
     font-family: 'Ubuntu Mono', monospace;
     font-style: normal;
     color: #e9f100;
